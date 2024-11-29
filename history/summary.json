@@ -4,19 +4,19 @@
     "url": "https://www.orangepet.cl",
     "icon": "https://icons.duckduckgo.com/ip3/www.orangepet.cl.ico",
     "slug": "orangepet",
-    "status": "down",
-    "uptime": "84.03%",
-    "uptimeDay": "84.03%",
-    "uptimeWeek": "84.03%",
-    "uptimeMonth": "84.03%",
-    "uptimeYear": "84.03%",
-    "time": 1038,
-    "timeDay": 1038,
-    "timeWeek": 1038,
-    "timeMonth": 1038,
-    "timeYear": 1038,
+    "status": "up",
+    "uptime": "82.08%",
+    "uptimeDay": "82.08%",
+    "uptimeWeek": "82.08%",
+    "uptimeMonth": "82.08%",
+    "uptimeYear": "82.08%",
+    "time": 1092,
+    "timeDay": 1092,
+    "timeWeek": 1092,
+    "timeMonth": 1092,
+    "timeYear": 1092,
     "dailyMinutesDown": {
-      "2024-11-29": 48
+      "2024-11-29": 55
     }
   }
 ]
