@@ -21,6 +21,7 @@ status-website:
   #cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
   #logoUrl: https://orangepet.cl/media/wysiwyg/codazon/grocery_gourmet/home/Orangepet-350-60.png
+  baseUrl: /orangepet_status
   name: Orangepet
   introTitle: ""
   introMessage: 
